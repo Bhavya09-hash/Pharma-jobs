@@ -9,7 +9,7 @@ const Nav = () => {
       <div className="top-bar">
         <div className="container d-flex justify-content-between">
           <span>Post and Search Pharma Jobs Here</span>
-          <span>contact@indianpharmajobs.com | +91 88474 62969 | Register | Login</span>
+          <span>contact@indianpharmajobs.com | +91 88474 xxxxx | Register | Login</span>
         </div>
       </div>
 
