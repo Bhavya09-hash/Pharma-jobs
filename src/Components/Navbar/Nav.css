@@ -1,0 +1,44 @@
+body {
+      margin: 0;
+      font-family: "Poppins", sans-serif;
+    }
+
+    .top-bar {
+      background: #0a8fdc;
+      color: white;
+      padding: 8px 0;
+      font-size: 14px;
+    }
+
+    .active-link {
+      background: orange;
+      color: white !important;
+      padding: 6px 12px;
+      border-radius: 4px;
+    }
+
+    .hero-section {
+      background: url("https://images.unsplash.com/photo-1551836022-deb4988cc6c0?q=80&w=1470&auto=format&fit=crop") center/cover no-repeat;
+      min-height: 500px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-card {
+      border-radius: 6px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+    .active-link:hover {
+      background: rgb(253, 253, 253);
+      border: 1px solid orange;
+      color: orange !important;
+      padding: 6px 12px;
+      border-radius: 4px;
+    }
+    .nav-link:hover {
+      background: rgb(253, 253, 253);
+      border: 1px solid orange;
+      color: orange !important;
+      padding: 6px 12px;
+      border-radius: 4px;
+    }

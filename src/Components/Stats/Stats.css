@@ -1,0 +1,27 @@
+.stats-section {
+  background: url("https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?q=80&w=1470&auto=format&fit=crop")
+              center/cover no-repeat;
+  min-height: 300px;
+  padding: 60px 0;
+}
+
+.stat-circle {
+  width: 180px;
+  height: 180px;
+  background: rgba(255, 128, 0, 0.9);
+  color: white;
+  border-radius: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.stat-circle h2 {
+  font-weight: 700;
+}
+
+.stat-circle p {
+  font-size: 16px;
+}
